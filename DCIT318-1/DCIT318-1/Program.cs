@@ -4,7 +4,8 @@ class Program
 {
     static void Main()
     {
-        
+        Console.WriteLine("This program allows users to check their grade");
+        Console.WriteLine("----------************************------------");
         Console.Write("Please enter your score (0-100): ");
         
         

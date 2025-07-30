@@ -6,6 +6,8 @@ class Program
 {
     static void Main()
     {
+        Console.WriteLine("This program allows users to check for discounts on tickets");
+        Console.WriteLine("--------------************************---------------------");
         Console.Write("Please enter your age: ");
         string input = Console.ReadLine();
 
