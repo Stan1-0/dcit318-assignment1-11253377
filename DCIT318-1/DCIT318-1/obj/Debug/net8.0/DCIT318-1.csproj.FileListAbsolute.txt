@@ -1,0 +1,14 @@
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment1-11253377\DCIT318-1\DCIT318-1\bin\Debug\net8.0\DCIT318-1.exe
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment1-11253377\DCIT318-1\DCIT318-1\bin\Debug\net8.0\DCIT318-1.deps.json
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment1-11253377\DCIT318-1\DCIT318-1\bin\Debug\net8.0\DCIT318-1.runtimeconfig.json
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment1-11253377\DCIT318-1\DCIT318-1\bin\Debug\net8.0\DCIT318-1.dll
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment1-11253377\DCIT318-1\DCIT318-1\bin\Debug\net8.0\DCIT318-1.pdb
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment1-11253377\DCIT318-1\DCIT318-1\obj\Debug\net8.0\DCIT318-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment1-11253377\DCIT318-1\DCIT318-1\obj\Debug\net8.0\DCIT318-1.AssemblyInfoInputs.cache
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment1-11253377\DCIT318-1\DCIT318-1\obj\Debug\net8.0\DCIT318-1.AssemblyInfo.cs
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment1-11253377\DCIT318-1\DCIT318-1\obj\Debug\net8.0\DCIT318-1.csproj.CoreCompileInputs.cache
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment1-11253377\DCIT318-1\DCIT318-1\obj\Debug\net8.0\DCIT318-1.dll
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment1-11253377\DCIT318-1\DCIT318-1\obj\Debug\net8.0\refint\DCIT318-1.dll
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment1-11253377\DCIT318-1\DCIT318-1\obj\Debug\net8.0\DCIT318-1.pdb
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment1-11253377\DCIT318-1\DCIT318-1\obj\Debug\net8.0\DCIT318-1.genruntimeconfig.cache
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment1-11253377\DCIT318-1\DCIT318-1\obj\Debug\net8.0\ref\DCIT318-1.dll
